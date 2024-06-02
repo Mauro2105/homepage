@@ -8,3 +8,5 @@ My first personal website
 - html
 - css
 - binary-studio-academy
+
+Compromiso README inicial
